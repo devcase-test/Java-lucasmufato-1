@@ -1,1 +1,1 @@
-# Java-lucasmufato-1
+Dummy template
